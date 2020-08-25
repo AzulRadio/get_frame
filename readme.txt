@@ -6,6 +6,7 @@ Hy.You, 2020.8.25, hy19@illinois.edu
 
 This is a Class designed to get the latest frame from the camera.
 
+=======
 how to start demo(cpp):
 	$make
 	$./test
